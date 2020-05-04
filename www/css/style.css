@@ -1,0 +1,21 @@
+/**/
+#visor {
+  font-size: 2em;
+}
+#visor .ope{
+  display: block;
+  font-size: 0.8em;
+  color:gray;
+}
+#visor{
+  background-color: #d3d3d3;
+  padding: 0.2em;
+  border-radius: 0.5em;
+}
+.num, .sinal{
+  width:17vw;
+}
+.sinal{
+  background-color:darkgray;
+  color:black;
+}
